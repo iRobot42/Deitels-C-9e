@@ -1,0 +1,3 @@
+Diameter is 4
+Circumference is 12.566360
+Area is 12.566360

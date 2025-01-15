@@ -1,6 +1,6 @@
 # Work in progress...
 
-> - [ ] Intro to C Programming
+- [x] Intro to C Programming
 > - [ ] Structured Program Development
 > - [ ] Program Control
 > - [ ] Functions

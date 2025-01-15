@@ -1,0 +1,23 @@
+Enter account number (-1 to end): 100
+Enter beginning balance: 5394.78
+Enter total charges: 1000.00
+Enter total credits: 500.00
+Enter credit limit: 5500.00
+Account:      100
+Credit limit: 5500.00
+Balance:      5894.78
+Credit Limit Exceeded.
+
+Enter account number (-1 to end): 200
+Enter beginning balance: 1000.00
+Enter total charges: 123.45
+Enter total credits: 321.00
+Enter credit limit: 1500.00
+
+Enter account number (-1 to end): 300
+Enter beginning balance: 500.00
+Enter total charges: 274.73
+Enter total credits: 100.00
+Enter credit limit: 800.00
+
+Enter account number (-1 to end): -1

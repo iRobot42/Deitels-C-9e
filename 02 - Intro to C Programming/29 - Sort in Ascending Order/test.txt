@@ -1,0 +1,2 @@
+Three integer numbers: 1024 42 -1
+Sorted: -1 42 1024

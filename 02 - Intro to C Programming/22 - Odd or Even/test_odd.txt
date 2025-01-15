@@ -1,0 +1,2 @@
+Integer number: 17
+It's odd
