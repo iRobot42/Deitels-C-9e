@@ -1,0 +1,4 @@
+Number (up to 5 digits): -100000
+Number (up to 5 digits): 123456
+Number (up to 5 digits): -70771
+7s: 3

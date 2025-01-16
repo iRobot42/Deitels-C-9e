@@ -1,0 +1,11 @@
+Enter loan principal (-1 to end): 1000.00
+Enter interest rate: .1
+Enter term of the loan in days: 365
+The interest charge is $100.00
+
+Enter loan principal (-1 to end): 1000.00
+Enter interest rate: .08375
+Enter term of the loan in days: 224
+The interest charge is $51.40
+
+Enter loan principal (-1 to end): -1

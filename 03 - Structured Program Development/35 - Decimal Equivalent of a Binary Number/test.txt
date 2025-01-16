@@ -1,0 +1,2 @@
+Binary number: 10010
+Decimal equivalent is 18

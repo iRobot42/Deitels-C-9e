@@ -1,0 +1,4 @@
+Five-digit number: 9999
+Five-digit number: 100000
+Five-digit number: 42024
+Palindrome!

@@ -1,0 +1,7 @@
+Before decrement: 0
+Predecrementing: -1
+After decrement: -1
+
+Before decrement: 0
+Postdecrementing: 0
+After decrement: -1
