@@ -1,7 +1,7 @@
 # Work in progress...
 
 - [x] Intro to C Programming
-> - [ ] Structured Program Development
+- [x] Structured Program Development
 > - [ ] Program Control
 > - [ ] Functions
 > - [ ] Arrays
