@@ -1,0 +1,2 @@
+Sequence: 5 42 0 -273 1024 -1
+Smallest: -273

@@ -1,0 +1,7 @@
+Enter the letter grades.
+Enter the EOF character to end input.
+a b c C A d f C E D A b 4
+Incorrect grade entered!
+Incorrect grade entered!
+^Z
+Average grade for the class is C.

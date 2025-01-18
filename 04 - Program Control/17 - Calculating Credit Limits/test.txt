@@ -1,0 +1,17 @@
+Account number: 100
+Credit limit: $5000
+Current balance: $3333
+New credit limit is $2500
+Credit limit exceeded!
+
+Account number: 200
+Credit limit: $2000
+Current balance: $1000
+New credit limit is $1000
+
+Account number: 300
+Credit limit: $1000
+Current balance: $777
+New credit limit is $500
+Credit limit exceeded!
+

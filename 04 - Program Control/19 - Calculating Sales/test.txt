@@ -1,0 +1,24 @@
+Product number [1..5] (0 to end): -1
+Product number [1..5] (0 to end): 6
+Product number [1..5] (0 to end): 1
+Quantity sold: -10
+Quantity sold: 10
+
+Product number [1..5] (0 to end): 2
+Quantity sold: 7
+
+Product number [1..5] (0 to end): 3
+Quantity sold: 3
+
+Product number [1..5] (0 to end): 5
+Quantity sold: 11
+
+Product number [1..5] (0 to end): 4
+Quantity sold: 2
+
+Product number [1..5] (0 to end): 1
+Quantity sold: 0
+
+Product number [1..5] (0 to end): 0
+
+Total retail value is $175.79
