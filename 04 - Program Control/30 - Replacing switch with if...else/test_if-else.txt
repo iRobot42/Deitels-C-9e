@@ -1,0 +1,11 @@
+Enter the letter grades.
+Enter the EOF character to end input.
+a b c C A d f C E D A b
+Incorrect letter grade entered.
+^Z
+Totals for each letter grade are:
+A: 3
+B: 2
+C: 3
+D: 2
+F: 1

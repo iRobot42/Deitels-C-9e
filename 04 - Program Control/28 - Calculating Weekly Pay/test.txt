@@ -1,0 +1,43 @@
+Paycodes:
+0 - Exit program
+1 - Manager
+2 - Hourly worker
+3 - Commission worker
+4 - Pieceworker
+
+Pay code: 1
+Fixed salary: 330
+Weekly pay is $330.00
+
+Pay code: 2
+Hours worked: 39.5
+Wage per hour: 10
+Weekly pay is $395.00
+
+Pay code: 2
+Hours worked: 40
+Wage per hour: 11
+Weekly pay is $440.00
+
+Pay code: 2
+Hours worked: 41
+Wage per hour: 10
+Weekly pay is $415.00
+
+Pay code: 3
+Gross weekly sales: 0
+Weekly pay is $250.00
+
+Pay code: 3
+Gross weekly sales: 1024
+Weekly pay is $308.37
+
+Pay code: 4
+Pieces produced: 80
+Wage per piece: 2.5
+Weekly pay is $200.00
+
+Pay code: 5
+Incorrect paycode!
+
+Pay code: 0
