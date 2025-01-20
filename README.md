@@ -2,7 +2,7 @@
 
 - [x] Intro to C Programming
 - [x] Structured Program Development
-> - [ ] Program Control
+- [x] Program Control
 > - [ ] Functions
 > - [ ] Arrays
 > - [ ] Pointers

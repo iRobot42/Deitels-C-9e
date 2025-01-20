@@ -1,0 +1,15 @@
+Number: 42
+Even
+
+Number: 1
+Odd
+
+Number: -1
+Odd
+
+Number: 2
+Even
+
+Number: 0
+Even
+
