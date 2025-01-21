@@ -1,0 +1,37 @@
+I have a number between 1 and 1000.
+Can you guess my number?
+Please type your first guess.
+
+Number: 500
+Too low. Try again.
+Number: 750
+Too high. Try again.
+Number: 625
+Too low. Try again.
+Number: 688
+Too high. Try again.
+Number: 657
+Too low. Try again.
+Number: 673
+
+Excellent! You guessed the number!
+Would you like to play again (y or n)? y
+
+Number: 500
+Too high. Try again.
+Number: 250
+Too high. Try again.
+Number: 125
+Too high. Try again.
+Number: 63
+Too low. Try again.
+Number: 94
+Too high. Try again.
+Number: 79
+Too high. Try again.
+Number: 71
+Too low. Try again.
+Number: 75
+
+Excellent! You guessed the number!
+Would you like to play again (y or n)? n
