@@ -1,0 +1,24 @@
+Enter -1 to end.
+How much is 3 times 9? 27
+Nice work!
+How much is 5 times 5? 25
+Very good!
+How much is 1 times 4? 4
+Excellent!
+How much is 2 times 0? 0
+Excellent!
+How much is 3 times 6? 18
+Nice work!
+How much is 8 times 8? 64
+Keep up the good work!
+How much is 6 times 7? 41
+No. Please try again.
+How much is 6 times 7? 43
+Don't give up!
+How much is 6 times 7? 44
+Don't give up!
+How much is 6 times 7? 44
+No. Keep trying.
+How much is 6 times 7? 42
+Very good!
+How much is 0 times 6? -1
