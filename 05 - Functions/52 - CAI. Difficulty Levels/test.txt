@@ -1,0 +1,95 @@
+Difficulty (1-4), 0 to end: -1
+Difficulty (1-4), 0 to end: 5
+Difficulty (1-4), 0 to end: 1
+How much is 2 times 5? 10
+Keep up the good work!
+How much is 0 times 8? 0
+Keep up the good work!
+How much is 8 times 6? 48
+Excellent!
+How much is 4 times 5? 20
+Nice work!
+How much is 8 times 3? 24
+Excellent!
+How much is 7 times 8? 56
+Nice work!
+How much is 9 times 3? 27
+Nice work!
+How much is 8 times 7? 56
+Excellent!
+How much is 8 times 0? 0
+Very good!
+How much is 3 times 4? 12
+Very good!
+Congratulations, you are ready to go to the next level!
+
+Difficulty (1-4), 0 to end: 2
+How much is 50 times 47? 2350
+Very good!
+How much is 15 times 81? 1215
+Excellent!
+How much is 34 times 40? 2
+No. Keep trying.
+How much is 28 times 15? 2
+No. Keep trying.
+How much is 60 times 36? 2
+Wrong. Try once more.
+How much is 52 times 88? 2
+Wrong. Try once more.
+How much is 94 times 73? 2
+Wrong. Try once more.
+How much is 74 times 80? 2
+No. Please try again.
+How much is 49 times 72? 2
+Wrong. Try once more.
+How much is 14 times 40? 2
+Wrong. Try once more.
+Please ask your teacher for extra help.
+
+Difficulty (1-4), 0 to end: 3
+How much is 76 times 784? 59584
+Excellent!
+How much is 713 times 804? 573252
+Excellent!
+How much is 337 times 852? 3
+Don't give up!
+How much is 901 times 376? 3
+Wrong. Try once more.
+How much is 21 times 421? 3
+Don't give up!
+How much is 551 times 174? 3
+Don't give up!
+How much is 237 times 954? 3
+No. Please try again.
+How much is 862 times 45? 3
+Wrong. Try once more.
+How much is 557 times 844? 3
+No. Please try again.
+How much is 713 times 353? 3
+No. Please try again.
+Please ask your teacher for extra help.
+
+Difficulty (1-4), 0 to end: 4
+How much is 7392 times 8788? 64960896
+Keep up the good work!
+How much is 5699 times 2717? 15484183
+Keep up the good work!
+How much is 5402 times 8488? 4
+No. Keep trying.
+How much is 976 times 4089? 4
+No. Keep trying.
+How much is 5219 times 821? 4
+Don't give up!
+How much is 6488 times 3033? 4
+Wrong. Try once more.
+How much is 1472 times 3223? 4
+Don't give up!
+How much is 48 times 3223? 4
+No. Keep trying.
+How much is 8495 times 7013? 4
+No. Please try again.
+How much is 7337 times 9294? 4
+Wrong. Try once more.
+Please ask your teacher for extra help.
+
+Difficulty (1-4), 0 to end: 0
