@@ -1,0 +1,4 @@
+Data items in original order
+   2   6   4   8  10  12  89  68  45  37
+Data items in ascending order
+   2   4   6   8  10  12  37  45  68  89
